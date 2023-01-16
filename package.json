@@ -1,0 +1,16 @@
+{
+  "name": "js-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ical_parser.js",
+  "scripts": {
+    "start": "node src/ical_parser.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ical": "^0.8.0",
+    "node-fetch": "^2.6.8"
+  }
+}
